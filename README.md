@@ -1,7 +1,7 @@
 # Open cv2 Base Realtime-Face-Detection 
 <br>
 
-<img src="./Training Images/Working_to_be_delted.jpg" alt="Working image" width=200px height=250px />
+<img src="/Training Images/Working_to_be_deleted.jpg" alt="Working image" width=400px height=350px />
 ## Working steps
 
 <ol>
